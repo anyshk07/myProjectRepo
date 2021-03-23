@@ -35,5 +35,8 @@ public class Calculator {
 	public static void cube(int num){
 		System.out.println(num*num*num);
 	}
-
+	
+	public static void b1Greet(){
+		System.out.println("b1 greets");
+	}
 }
