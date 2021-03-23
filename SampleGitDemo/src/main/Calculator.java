@@ -39,4 +39,8 @@ public class Calculator {
 	public static void b1Greet(){
 		System.out.println("b1 greets");
 	}
+  
+	public static void masterGreet(){
+		System.out.println("master greets");
+	}
 }
