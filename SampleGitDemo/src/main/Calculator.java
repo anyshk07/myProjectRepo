@@ -36,8 +36,11 @@ public class Calculator {
 		System.out.println(num*num*num);
 	}
 	
+	public static void b1Greet(){
+		System.out.println("b1 greets");
+	}
+  
 	public static void masterGreet(){
 		System.out.println("master greets");
 	}
-
 }
